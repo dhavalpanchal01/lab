@@ -4,12 +4,12 @@
 class Weekend				
 {
 	public static void main(String args[]) {
-		int weekday;
+		int dayname;
 		System.out.println("enter week day");
 		Scanner Scan = new Scanner(System.in);     
-		Weekend = Scan.nextInt();
+		dayname = Scan.nextInt();
 
-		switch(Weekend)
+		switch(dayname)
 		{
 		case 1:
 			System.out.println(" Monday");
