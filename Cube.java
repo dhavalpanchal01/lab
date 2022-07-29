@@ -17,7 +17,7 @@ import java.util.Scanner;
      {
          
          Cube = i*i*i;                		
-         System.out.println("no is " +i+ " cube of no :-" +i+" is "  +Cube );
+         System.out.println("Numberss is " +i+ " cube of no = " +i+" is "  +Cube );
          
 
     }
